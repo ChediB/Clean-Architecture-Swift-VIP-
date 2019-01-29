@@ -1,6 +1,6 @@
 //
 //  FeedsRouter.swift
-//  ViperApp
+//  VipApp
 //
 //  Created by Chedi BACCARI on 29/01/2019.
 //  Copyright © 2019 Chedi BACCARI. All rights reserved.
